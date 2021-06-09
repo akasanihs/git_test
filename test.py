@@ -3,3 +3,6 @@ def aaa():
 
 def bbb():
   print("bbb")
+
+def win():
+  print("win")

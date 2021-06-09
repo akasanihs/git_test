@@ -1,6 +1,5 @@
-print("test")
-print("macで編集")
-print("a")
-print("ttt2")
+def aaa():
+  print("aaa")
 
-print("branch2")
+def bbb():
+  print("bbb")

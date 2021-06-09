@@ -6,7 +6,7 @@ def bbb():
 
 <<<<<<< HEAD
 def win():
-  print("win")
+  print("winmac")
 =======
 def mac():
   print("mac")
